@@ -85,6 +85,13 @@
     <comp lib="8" loc="(102,231)" name="Text">
       <a name="text" val="A"/>
     </comp>
+     <comp lib="3" loc="(100, 300)" name="Counter">
+      <a name="width" val="4"/>
+    </comp>
+        <wire from="(100, 320)" to="(290, 320)"/> 
+    <wire from="(120, 320)" to="(290, 340)"/> 
+    <wire from="(140, 320)" to="(290, 360)"/> 
+    <wire from="(160, 320)" to="(290, 380)"/> 
     <wire from="(110,100)" to="(260,100)"/>
     <wire from="(110,120)" to="(260,120)"/>
     <wire from="(110,200)" to="(260,200)"/>
@@ -116,3 +123,6 @@
     <wire from="(490,90)" to="(490,130)"/>
   </circuit>
 </project>
+
+
+
